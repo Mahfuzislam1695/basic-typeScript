@@ -1,0 +1,15 @@
+{
+  "name": "basic-typescript",
+  "version": "1.0.0",
+  "description": "What & why?\r Environment Setup\r Declarations\r Types\r Functions\r Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
